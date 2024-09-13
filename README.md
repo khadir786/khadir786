@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an aspiring software developer, working to gain more experience in just about anything
 
 - 🎮 I'm currently working on a game using ASP.NET Core Blazor
 - 🤔 I'm currently learning Node.JS and Express, MAUI, Blazor
