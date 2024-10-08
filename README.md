@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm an aspiring Software Developer, working to gain more experience in just about anything
 
 - 🎮 I'm currently working on a game using ASP.NET Core Blazor
-- 🤔 I'm currently learning Node.JS and Express, MAUI, Blazor, and have an interest in cloud computing
+- 🤔 I'm currently learning Node.JS and Express, MAUI, Blazor, and am interested about learning more in cloud computing
 
 - 📫 How to reach me:
   -   Email: khadir786.ka@googlemail.com
