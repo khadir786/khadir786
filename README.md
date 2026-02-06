@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a Software Developer, working to gain more experience in just about anything
 
-- 🎮 I'm currently working on a game using ASP.NET Core Blazor
 - 🤔 I'm currently learning Node.JS and Express, Kotlin, and am interested in learning more about cloud computing.
 
 - 📫 How to reach me:
